@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Dexter-1280/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Dexter-1280/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Dexter-1280/Leetcode/tree/master/0258-add-digits) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Dexter-1280/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Dexter-1280/Leetcode/tree/master/2235-add-two-integers) |
 ## Simulation
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Dexter-1280/Leetcode/tree/master/0066-plus-one) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Dexter-1280/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Dexter-1280/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Dexter-1280/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Stack
