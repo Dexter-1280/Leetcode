@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Dexter-1280/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dexter-1280/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Dexter-1280/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Dexter-1280/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Dexter-1280/Leetcode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dexter-1280/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Dexter-1280/Leetcode/tree/master/2235-add-two-integers) |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Dexter-1280/Leetcode/tree/master/0058-length-of-last-word) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Dexter-1280/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Dexter-1280/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
