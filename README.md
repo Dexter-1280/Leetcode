@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Dexter-1280/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Dexter-1280/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dexter-1280/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Dexter-1280/Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Dexter-1280/Leetcode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dexter-1280/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Dexter-1280/Leetcode/tree/master/2235-add-two-integers) |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Dexter-1280/Leetcode/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dexter-1280/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dexter-1280/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
